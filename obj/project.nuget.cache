@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/eftWzA/rpA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brandon\\Desktop\\Solo .NET\\Simple API's\\Contoso Pizza\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brandon\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\Brandon\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
